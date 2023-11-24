@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementi di soluzione", "El
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "t5c2324dimeo04CSCryptServer", "t5c2324dimeo04CSCryptServer\t5c2324dimeo04CSCryptServer.vcxproj", "{F327736E-DDD7-4B6B-83E5-7E638E597491}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Server", "Client\Client.vdproj", "{298F3E95-E475-40A8-8E91-73504D8F55B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -36,6 +38,10 @@ Global
 		{F327736E-DDD7-4B6B-83E5-7E638E597491}.Release|x64.Build.0 = Release|x64
 		{F327736E-DDD7-4B6B-83E5-7E638E597491}.Release|x86.ActiveCfg = Release|Win32
 		{F327736E-DDD7-4B6B-83E5-7E638E597491}.Release|x86.Build.0 = Release|Win32
+		{298F3E95-E475-40A8-8E91-73504D8F55B0}.Debug|x64.ActiveCfg = Debug
+		{298F3E95-E475-40A8-8E91-73504D8F55B0}.Debug|x86.ActiveCfg = Debug
+		{298F3E95-E475-40A8-8E91-73504D8F55B0}.Release|x64.ActiveCfg = Release
+		{298F3E95-E475-40A8-8E91-73504D8F55B0}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

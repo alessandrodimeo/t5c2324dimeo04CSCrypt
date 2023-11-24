@@ -1,0 +1,3 @@
+﻿  t5c2324dimeo04CSClient.cpp
+C:\Users\alessandro.di.meo\source\repos\t5c2324dimeo04CSCrypt\t5c2324dimeo04CSCryptClient\t5c2324dimeo04CSClient.cpp(175,7): warning C4101: 'buffer': variabile locale senza riferimenti
+  t5c2324dimeo04CSCryptClient.vcxproj -> C:\Users\alessandro.di.meo\Source\Repos\t5c2324dimeo04CSCrypt\x64\Debug\t5c2324dimeo04CSCryptClient.exe
