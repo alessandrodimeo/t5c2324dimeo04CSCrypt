@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "t5c2324dimeo04CSCryptClient", "t5c2324dimeo04CSCryptClient\t5c2324dimeo04CSCryptClient.vcxproj", "{0222F73D-2FD4-4D0E-838F-F1104D0BBC32}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementi di soluzione", "Elementi di soluzione", "{C388E7EB-A5A2-493B-827A-FA8A23CEB90C}"
+	ProjectSection(SolutionItems) = preProject
+		t5c2324dimeo04CSCrypt.h = t5c2324dimeo04CSCrypt.h
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "t5c2324dimeo04CSCryptServer", "t5c2324dimeo04CSCryptServer\t5c2324dimeo04CSCryptServer.vcxproj", "{F327736E-DDD7-4B6B-83E5-7E638E597491}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0222F73D-2FD4-4D0E-838F-F1104D0BBC32}.Debug|x64.ActiveCfg = Debug|x64
+		{0222F73D-2FD4-4D0E-838F-F1104D0BBC32}.Debug|x64.Build.0 = Debug|x64
+		{0222F73D-2FD4-4D0E-838F-F1104D0BBC32}.Debug|x86.ActiveCfg = Debug|Win32
+		{0222F73D-2FD4-4D0E-838F-F1104D0BBC32}.Debug|x86.Build.0 = Debug|Win32
+		{0222F73D-2FD4-4D0E-838F-F1104D0BBC32}.Release|x64.ActiveCfg = Release|x64
+		{0222F73D-2FD4-4D0E-838F-F1104D0BBC32}.Release|x64.Build.0 = Release|x64
+		{0222F73D-2FD4-4D0E-838F-F1104D0BBC32}.Release|x86.ActiveCfg = Release|Win32
+		{0222F73D-2FD4-4D0E-838F-F1104D0BBC32}.Release|x86.Build.0 = Release|Win32
+		{F327736E-DDD7-4B6B-83E5-7E638E597491}.Debug|x64.ActiveCfg = Debug|x64
+		{F327736E-DDD7-4B6B-83E5-7E638E597491}.Debug|x64.Build.0 = Debug|x64
+		{F327736E-DDD7-4B6B-83E5-7E638E597491}.Debug|x86.ActiveCfg = Debug|Win32
+		{F327736E-DDD7-4B6B-83E5-7E638E597491}.Debug|x86.Build.0 = Debug|Win32
+		{F327736E-DDD7-4B6B-83E5-7E638E597491}.Release|x64.ActiveCfg = Release|x64
+		{F327736E-DDD7-4B6B-83E5-7E638E597491}.Release|x64.Build.0 = Release|x64
+		{F327736E-DDD7-4B6B-83E5-7E638E597491}.Release|x86.ActiveCfg = Release|Win32
+		{F327736E-DDD7-4B6B-83E5-7E638E597491}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F387230-8BC3-4AA6-80B2-E5922C88D340}
+	EndGlobalSection
+EndGlobal
